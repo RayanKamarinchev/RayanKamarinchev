@@ -101,7 +101,7 @@ Github (You are already here :>)
 Discord (Private)  
 [Playstation Network](https://psnprofiles.com/rdk2008bg)  
 [Steam](https://steamcommunity.com/id/rayan2008bg/)  
-[Facebook](facebook.com/RayanKamarinchev)
+[Facebook](https://facebook.com/RayanKamarinchev)
 
 ## :chart_with_upwards_trend: Github Stats
 <a href="https://github.com/RayanKamarinchev/RayanKamarinchev">
