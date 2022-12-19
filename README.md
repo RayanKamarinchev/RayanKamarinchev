@@ -47,6 +47,7 @@ In my free time I usually play video games, hang out with people, practice my pr
 * [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/134753/1dabac54)
 * [Software University - EF Core - June 2022](https://softuni.bg/certificates/details/141225/de5562f16)
 * [Software University - JS Advanced - September 2022](https://softuni.bg/certificates/details/145592/adc5537a)
+* [Software University - JS Applications - October 2022](https://softuni.bg/certificates/details/149988/80445b25)
 
 ### :mortar_board: SoftUni Repositories
 * [C# OOP](https://github.com/RayanKamarinchev/OOP)
